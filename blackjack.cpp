@@ -35,10 +35,6 @@ int main ()
 		cout << "Your second card is a : " << card << endl;
 		cout << "Your total is " << playhand << endl;
 		cout << "The Dealer has " << dealcard << endl;
-		//cout << "Would you like to keep playing, Y/N? ";
-		//cin >> play;
-		//cout << endl;
-		//playing(play, keep_playing);
 		cout << "Would you like to hit or stick?\n";
 		cout << "Enter H to hit or S to stick: ";
 		cin >> action;
